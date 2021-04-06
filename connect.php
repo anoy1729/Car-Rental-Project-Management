@@ -61,7 +61,7 @@ $show=mysqli_query($con,$sql);
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="index.html">Home</a></li>
 				          
-				          <li><a href="http://localhost/Car-Rental/connect.php">Cars</a></li>
+				          <li><a href="http://localhost/my%20works/Car%20rental/connect.php">Cars</a></li>
 						  
 						  
 				          <li><a href="service.html">Partners</a></li>
